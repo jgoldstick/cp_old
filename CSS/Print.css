@@ -1,0 +1,68 @@
+body {font-size: 12pt;}
+table, table * {
+font-family:serif;
+font-size: 10pt;}
+ 
+
+table { border-collapse: collapse; }
+div#NewLogo1,
+div#banner , 
+div#sitenav , 
+div#sidebar , 
+div#Instructions ,
+div#sitenav,
+div#sidebar,
+#lmenu,
+.pn,
+div#footer *{display: none;}
+#ServicesNav {display: none;}
+div#entry {margin: 5%;}
+table {
+  border: thin solid black;
+  width: 90%;
+  padding: 20px 0;
+}
+
+table#AddressInfo, tr, td {border: none;
+}
+td#AddressInfo td.lbl {text-align: right;
+  text-size: .8em;
+  width: 8em;
+}
+
+
+table#OrderInfo {border: black thin solid;}
+
+/* table#OrderInfo {
+ border-top: black thin dotted;
+ border-bottom: black thin dotted;
+}
+*/
+table#OrderInfo td { 
+border-bottom: black thin solid;
+border-right: black thin solid;
+}
+
+thead td {text-align: center;
+  border-bottom: thin double;
+}
+
+td#itemHeader {
+ text-align: center;
+ background-color: lightblue;
+}
+td.price {
+text-align: right;
+padding-right: 4px;
+}
+tr#calculations td {
+ text-align: right;
+ background-color: lightblue;
+}
+tr#calculations td#GrandTotal {
+ background-color: white;
+}
+a:link:after {content: "(" attr(href) ")";
+font-size: .8em;}
+
+

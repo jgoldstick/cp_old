@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="Fog Creek CityDesk 2.0.19" />
+<meta name="citydesk" content="D60A1ACE/107" />
+<title>Communication Partners: The Research Studies</title>
+<link rel="stylesheet" type="text/css" href="../CSS/CP.css">
+<!-- extra1 holds id for menu item to be highlighted -->
+<style type="text/css">
+#Research {
+  background-color: pink;
+  border-left: 3px solid #00f;
+   }
+</style>
+
+</head>
+<body>
+<div id="NewLogo1">
+<p id="SiteName">Communicating Partners</p>
+<p id="tag1">Dr. James D. MacDonald's Website</p>
+<p id="tag2">Helping Parents Help Children.  Programs for Parents, Therapists & Educators</p>
+</div>
+
+<div id="sitenav">
+<h4>Information on the Website</h4>
+<ul>
+
+	<li><A id = "MacDonaldStart" href="MacDonaldStart.html">Welcome</A></li>
+	<li><A id = "ClinicalServices" href="ClinicalServices.html">Clinical Services</A></li>
+	<li><A id = "CommunityEducation" href="CommunityEducation.html">Community Education</A></li>
+	<li><A id = "FAQs" href="FAQs.html">FAQs: Frequently Asked Questions</A></li>
+	<li><A id = "OnlineDiscussionGroup" href="OnlineDiscussionGroup.html">The Online Discussion Group</A></li>
+	<li><A id = "Research" href="Research.html">The Research Studies</A></li>
+	<li><A id = "Autism" href="Autism.html">Articles on Autism</A></li>
+	<li><A id = "DownSyndrome" href="DownSyndrome.html">Articles On Down Syndrome</A></li>
+	<li><A id = "AboutDrMacDonald" href="AboutDrMacDonald.html">About Dr. James D. MacDonald</A></li>
+	<li><A id = "ContactUs" href="ContactUs.html">Contact Us</A></li>
+	<li><A id = "AboutWebsite" href="AboutWebsite.html">About the Website</A></li>
+
+</ul>
+</div>
+<div id="sidebar">
+<h4>More Materials Available from Communicating Partners</h4>
+	<A id=Books href="../Catalog/index.html">Books</A>
+	<ul id="submenu" style="display: none;">
+       
+      <li><a href="../Catalog/TheAutisticRecoveryManual.html">The Autistic Recovery Manual</a></li> 
+      <li><a href="../Catalog/CommunicateWithYourChild.html">Communicate With Your Child</a></li> 
+      <li><a href="../Catalog/BeforeYourChildTalks.html">Before Your Child Talks</a></li> 
+      <li><a href="../Catalog/BeforeSpeechadailyactivit.html">Before Speech: a daily activity diary</a></li> 
+      <li><a href="../Catalog/FirstWordsadailyactivityd.html">First Words:  a daily activity diary.</a></li> 
+      <li><a href="../Catalog/CommunicationsandLiteracy.html">Communication and Literacy</a></li> 
+      <li><a href="../Catalog/PreschoolCommunicationPro.html">Preschool Communication Program</a></li>
+    </ul>
+	<A id=VideoTapes href="../Video/index.html">Videos</A>
+	<A id=AudioTapes href="../Audio/index.html">Audio Tapes</A>
+
+<h4 >Workshops</h4>
+
+	<A id = "TrainingWorkshops" href="../Events/TrainingWorkshops.html">About Training Workshops and Seminars</A>
+
+</div>
+<div id="entry">
+<!--<DIV id=entry>
+<H2>The Research Studies</H2>
+<DIV id=base>
+<UL id=lmenu> 
+<LI><A href="FResearch/OhioState.html">The Ohio State Study</A>  
+<LI><A href="FResearch/DiscoverCenter.html">Discover Center</A>  
+<LI><A href="FResearch/FamilyChildLearning.html">Family Child Learning Center</A>  
+<LI><A href="FResearch/CommunicativeLiteracy.html">The Communicative Literacy Study</A>  
+<LI><A href="FResearch/PittsburghProgram.html">The Pittsburgh Program</A>  
+<LI><A href="FResearch/AnnArborGroup.html">The Ann Arbor Group Parent Therapy Program</A>  </LI></UL></DIV>
+--><h2>RESEARCH SUPPORT FOR COMMUNICATING PARTNERS</h2>
+<p>
+   The Communicating Partners programs for Late talking children are based
+on over 30 years of research and development with children with and without
+concerns such as Autism, Asperger's syndrome, Down Syndrome, Attention
+disorders, Apraxia,  and other  conditions limiting language. The programs
+have now been tested  in several  independent settings by persons other than
+the  originators.  We feel confident from  the  extensive data in six
+studies and regular  feedback from parents and professionals that
+Communicating Partners is a very effective way for  adults to help children
+become, first , more interactive and  then more  communicative and
+conversational.
+</p><p>
+    Below you will find  summaries of the six major studies that have
+evaluated the effects of the approach..
+Fuller  analyses and  description of the  findings and implications will be
+published  in the upcoming book "COMMUNICATING PARTNERS" available in 2004
+by <a href="http://www.jkp.com/">Jessica Kingsley Publishers</a>.
+
+</p>
+<ol>
+<li> <a href="FResearch/OhioState.html">The Ohio State Studies</a>. 25 children and parents: (Autism,
+Down Syndrome, and Late talking with no specific diagnoses).
+</li>
+<li><a href="FResearch/DiscoverCenter.html">Discovery Center Study</a>: A preschool-based collaborative
+program with families and teachers.
+</li>
+<li><a href="FResearch/FamilyChildLearning.html">The Kent State University/Family Child Learning Center</a>; A
+series of studies with autistic children and with developmentally delayed
+children in a parent-focused early intervention program.
+Extensive finding on 50 children.
+</li>
+<li><a href="FResearch/CommunicativeLiteracy.html">The Literacy and Communication study</a>. A storybook-based
+parent study with 20 developmentally delayed preschool-aged children.
+</li>
+<li><a href="FResearch/PittsburghProgram.html">The Pittsburgh Study</a>. A two-year parents education program
+for 40 children with language delays.
+</li>
+<li><a href="FResearch/AnnArborGroup.html">The Ann Arbor study</a>.. A psychotherapeutic study with
+families of children with bi-polar and autistic concerns.
+</li>
+</ol>
+
+
+ <p class="pn">
+    <a href="OnlineDiscussionGroup.html">Previous: The Online Discussion Group</a>
+</p>
+  
+
+ <p class="pn">
+   <a href="Autism.html">Next: Articles on Autism</a>
+</p>
+  
+<p style="clear: both"></p>
+</div>
+<div id="footer">
+<address>
+Dr. James MacDonald 
+332 Mimring 
+Columbus, Ohio 43202 
+Phone/Fax (614)447-0010 
+<A href="mailto:e-mail:macdonald.3@osu.edu">macdonald.3@osu.edu</A>
+</address>
+</div>
+</body>
+</html>
